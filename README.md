@@ -17,4 +17,5 @@ python 2
      - How to find intersection of two clusters _or_ how to find common nodes between two clusters.
   
 ## Directions:
-Please refer to **Gephi notes.ipynb**. It contains description of how to start with and use the above mentioned features.
+- Please refer to **Gephi notes.ipynb**. It contains description of how to start with and use the above mentioned features.
+- Make sure that **common.py** and **nodes.txt** is kept the gephi folder. The file **friends.csv** is given just for example. It is just that, nodes.txt contains names from friends.csv.
